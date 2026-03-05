@@ -1,0 +1,9 @@
+{
+	"name": "pocincementaljsontosqldb",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b57da26f-49b9-4aa8-b8d9-7fc43c44a268",
+		"tenantId": "0ad438e7-4f25-4b60-a590-3d9550989d16"
+	}
+}
